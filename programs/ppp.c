@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
+
 int main(){
     int a,b,c;
     const char n;
